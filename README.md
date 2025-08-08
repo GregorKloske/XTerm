@@ -3,7 +3,8 @@
 <!DOCTYPE html>
 <html>
 <body>
-<center><img width="450" height="450" alt="Icon_of_XTerm_(from_2012) svg" src="https://github.com/user-attachments/assets/80569417-1fe3-43de-b7d0-17c81bdaf022" /></center>
+<center><img width="450" height="450" alt="Icon_of_XTerm_(from_2012) svg" src="https://github.com/user-attachments/assets/80569417-1fe3-43de-b7d0-17c81bdaf022" />
+</center>
 </body>
 </html>
 
