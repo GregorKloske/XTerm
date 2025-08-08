@@ -24,3 +24,4 @@ estas son las instrucciones para guardar el codigo de configuracion.......:
 
           https://github.com/GregorKloske/XTerm/blob/fbeddce3bbc2e8634e3af19fecf0355de7bb2d90/XTerm.txt
 
+          
