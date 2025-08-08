@@ -19,7 +19,8 @@ estas son las instrucciones para guardar el codigo de configuracion.......:
 2) Aplicar este comando para efectuar cambios
 
           xrdb -load .Xresources
+   
+3) En el enlace encontraran el codigo completo de configuracion.....:
 
-3) En el en el enlace encontraran el codigo completo de configuracion.....:
+          https://github.com/GregorKloske/XTerm/blob/fbeddce3bbc2e8634e3af19fecf0355de7bb2d90/XTerm.txt
 
-          
