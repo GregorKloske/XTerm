@@ -1,6 +1,6 @@
 # XTerm
 
-<img width="1200" height="1200" alt="Icon_of_XTerm_(from_2012) svg" src="https://github.com/user-attachments/assets/80569417-1fe3-43de-b7d0-17c81bdaf022" />
+<img width="500" height="500" alt="Icon_of_XTerm_(from_2012) svg" src="https://github.com/user-attachments/assets/80569417-1fe3-43de-b7d0-17c81bdaf022" />
 
 Esta es la consola de comandos mas liviana de todas en Linux y proviene del proveedor servidor Xorg.
 en ese codigo extenso de configuracin incluye las funciones de copiar, cortar, pegar usando unicamente atajos de teclas y tambien funciones adicionles de ampliar y reducir las fuentes dentro de la consola y todo completo y construido para XTerm y tambien para UXTerm.
